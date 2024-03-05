@@ -52,4 +52,7 @@ Link: https://www.youtube.com/watch?v=S9mVrof-bR8&list=PLtomnyC4qhTwqcZ3DzBhewMN
 - Established a data pipeline for data extraction and upload.
 - Created an automated python CSV generator functions used on dataset links from Office of Foreign Assets Control (OFAC).
 - Uploaded the generated the csv file to the FTP server, and deleted from the local filesystem.
-- Created a script for manual or scheduled tasks based on their keyword as parameter. 
+- Created a script for manual or scheduled tasks based on their keyword as parameter.
+  - error handling:
+    - case 1:  User is not in Sudoers File. This incident will be reported - https://www.youtube.com/watch?v=dmClYPXko9k
+   
