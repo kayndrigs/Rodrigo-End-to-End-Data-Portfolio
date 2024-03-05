@@ -28,7 +28,7 @@ Link: https://www.youtube.com/watch?v=S9mVrof-bR8&list=PLtomnyC4qhTwqcZ3DzBhewMN
     - SQL Server Data Tools (SSDT) for Visual Studio
     - PostgreSQL
     - PowerBI Desktop
- - Git
+  - Git
 
 # Episode 2: Version control and virtual environment essentials
 - Review of git and github usage for uploading projects to repositories
