@@ -19,7 +19,6 @@ According to JoshDev, this is a series that empowers any data enthusiast to leve
 4. Install the packages with: `pip install -r .\requirements.txt`
 
 # Episode 1: Introduction and Project Overview
-Link: https://www.youtube.com/watch?v=S9mVrof-bR8&list=PLtomnyC4qhTwqcZ3DzBhewMNjM_4rHqnO&index=1
 
 - Preparation of necessary software tools (pre-requisite)
   - Python skills
@@ -30,6 +29,8 @@ Link: https://www.youtube.com/watch?v=S9mVrof-bR8&list=PLtomnyC4qhTwqcZ3DzBhewMN
     - PostgreSQL: https://www.postgresql.org/
     - PowerBI Desktop: https://powerbi.microsoft.com/en-us/desktop/
   - Git: https://git-scm.com/
+
+  YT Link: https://www.youtube.com/watch?v=S9mVrof-bR8&t=242s
 
 # Episode 2: Version control and virtual environment essentials
 - Review of git and github usage for uploading projects to repositories
@@ -44,6 +45,8 @@ Link: https://www.youtube.com/watch?v=S9mVrof-bR8&list=PLtomnyC4qhTwqcZ3DzBhewMN
 - note: always create a unique sub-branch when working with organizational repository
 - assigns github account and push changes to GitHub Repository
 
+YT Link: [https://www.youtube.com/watch?v=S9mVrof-bR8&list=PLtomnyC4qhTwqcZ3DzBhewMNjM_4rHqnO&index=1](https://www.youtube.com/watch?v=F5M4WZifOu0&t=5567s)
+
 # Episode 3: Extracting data from web to FTP using Python
 - Performed setup of WSL (Windows Subsystem for Linux) and using Ubuntu as the distro.
 - Installed vsftpd for FTP (port 21) server for unix systems with configured settings.
@@ -55,5 +58,22 @@ Link: https://www.youtube.com/watch?v=S9mVrof-bR8&list=PLtomnyC4qhTwqcZ3DzBhewMN
 - Created a script for manual or scheduled tasks based on their keyword as parameter.
   - **error handling**:
     - case 1:  User is not in Sudoers File. This incident will be reported - https://www.youtube.com/watch?v=dmClYPXko9k
+      
+YT Link: https://www.youtube.com/watch?v=j7fNG-V4aGE&t=6324s
    
-# Episode 4: Loading CSV files from FTP to PostgreSQL using SSIS
+Link of EPS 1-3: https://github.com/kayndrigs/Rodrigo-End-to-End-Data-Portfolio.git
+   
+# Episode 4: Loading CSV files from FTP to PostgreSQL using SSIS (Continuation of the previous repository)
+**"We need to wear the hats pf business analyst."**
+- Discussion of ETL Concepts
+  - ETL can be interchangeable to ELT or EL
+- Transferred Vsftpd Flat Files to Local Directory
+- Created ODBC Connection for Postgresql in ODBC Data Source Administrator
+- Loaded local Flat Files to Postgresql DB through SSIS
+- Created 3 tables for CONS_OFAC dataset (PRIM, ALT, ADD)
+- Built and Deployed SSIS Package to SSMS
+- (pending) deployment to SQL Server Agent
+  
+YT Link: https://www.youtube.com/watch?v=m2DD-RvT-nA&t=1783s
+
+![Screenshot 2024-03-08 153435](https://github.com/kayndrigs/Rodrigo_FtpToPostgre/assets/103131412/5ed7184e-067e-411b-9830-1bf543d16f91)
