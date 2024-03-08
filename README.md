@@ -61,8 +61,6 @@ YT Link: [https://www.youtube.com/watch?v=S9mVrof-bR8&list=PLtomnyC4qhTwqcZ3DzBh
       
 YT Link: https://www.youtube.com/watch?v=j7fNG-V4aGE&t=6324s
    
-Link of EPS 1-3: https://github.com/kayndrigs/Rodrigo-End-to-End-Data-Portfolio.git
-   
 # Episode 4: Loading CSV files from FTP to PostgreSQL using SSIS (Continuation of the previous repository)
 **"We need to wear the hats pf business analyst."**
 - Discussion of ETL Concepts
@@ -75,5 +73,7 @@ Link of EPS 1-3: https://github.com/kayndrigs/Rodrigo-End-to-End-Data-Portfolio.
 - (pending) deployment to SQL Server Agent
   
 YT Link: https://www.youtube.com/watch?v=m2DD-RvT-nA&t=1783s
+
+Github Link of EP 4: https://github.com/kayndrigs/Rodrigo_FtpToPostgre
 
 ![Screenshot 2024-03-08 153435](https://github.com/kayndrigs/Rodrigo_FtpToPostgre/assets/103131412/5ed7184e-067e-411b-9830-1bf543d16f91)
