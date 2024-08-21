@@ -18,6 +18,10 @@ According to JoshDev, this is a series that empowers any data enthusiast to leve
    - `source env/Scripts/activate` (git bash)
 4. Install the packages with: `pip install -r .\requirements.txt`
 
+5. **If incase you forgot to create a requirements.txt**
+   - `pip install pip-chill`
+   - `pip-chill requirements.txt`
+
 # Episode 1: Introduction and Project Overview
 
 - Preparation of necessary software tools (pre-requisite)
@@ -74,9 +78,11 @@ YT Link: https://www.youtube.com/watch?v=j7fNG-V4aGE&t=6324s
   
 YT Link: https://www.youtube.com/watch?v=m2DD-RvT-nA&t=1783s
 
-![image](https://github.com/user-attachments/assets/f54b1c7a-3fbf-432b-9d38-5ad799cc0124)
 
 
 Github Link of EP 4: https://github.com/kayndrigs/Rodrigo_FtpToPostgre
 
 ![Screenshot 2024-03-08 153435](https://github.com/kayndrigs/Rodrigo_FtpToPostgre/assets/103131412/5ed7184e-067e-411b-9830-1bf543d16f91)
+
+
+![image](https://github.com/user-attachments/assets/f54b1c7a-3fbf-432b-9d38-5ad799cc0124)
