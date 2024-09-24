@@ -20,7 +20,7 @@ According to JoshDev, this is a series that empowers any data enthusiast to leve
 
 5. **If incase you forgot to create a requirements.txt**
    - `pip install pip-chill`
-   - `pip-chill requirements.txt`
+   - `pip-chill > requirements.txt`
 
 # Episode 1: Introduction and Project Overview
 
